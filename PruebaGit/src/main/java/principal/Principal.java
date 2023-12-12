@@ -10,7 +10,12 @@ public class Principal {
 		System.out.println("Estoy muy contento con mi programa dificilisimo");
 		System.out.println("Versión GITHUB");
 		System.out.println("Versión editada por un compañero el domingo");
+
 		System.out.println("sigue trabajando en la rama master");
+
+		System.out.println("Versión editada por un becario competente");
+		
+
 	}
 
 }
